@@ -40,4 +40,4 @@ while not end_program:
     play_again = input("Type 'yes' to continue, type 'no' to exit.\n").lower()
     if play_again == 'no':
         end_program = True
-        print("Have a nice day! Bye..")
+        print("Have a nice day!!")
